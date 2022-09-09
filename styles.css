@@ -50,3 +50,8 @@ body {
     width: 100%;
     text-align: left;
 }
+
+#recipes {
+    list-style: none;
+    text-align: center;
+}
